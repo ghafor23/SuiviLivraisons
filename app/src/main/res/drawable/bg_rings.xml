@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="260dp"
+    android:height="260dp"
+    android:viewportWidth="260"
+    android:viewportHeight="260">
+
+    <path
+        android:strokeColor="#552F7BFF"
+        android:strokeWidth="1.5"
+        android:pathData="M130,130m-125,0a125,125 0 1,0 250,0a125,125 0 1,0 -250,0" />
+    <path
+        android:strokeColor="#772F7BFF"
+        android:strokeWidth="1.5"
+        android:pathData="M130,130m-100,0a100,100 0 1,0 200,0a100,100 0 1,0 -200,0" />
+    <path
+        android:strokeColor="#992F7BFF"
+        android:strokeWidth="2"
+        android:pathData="M130,130m-75,0a75,75 0 1,0 150,0a75,75 0 1,0 -150,0" />
+
+    <!-- Points lumineux sur les cercles -->
+    <path
+        android:fillColor="#2F7BFF"
+        android:pathData="M130,5m-5,0a5,5 0 1,0 10,0a5,5 0 1,0 -10,0" />
+    <path
+        android:fillColor="#6FA8FF"
+        android:pathData="M230,130m-4,0a4,4 0 1,0 8,0a4,4 0 1,0 -8,0" />
+    <path
+        android:fillColor="#2F7BFF"
+        android:pathData="M55,130m-4,0a4,4 0 1,0 8,0a4,4 0 1,0 -8,0" />
+</vector>

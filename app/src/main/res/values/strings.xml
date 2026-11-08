@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Suivi Livraisons</string>
+
+    <string name="start_delivery">Démarrer la livraison</string>
+    <string name="end_delivery">Terminer la livraison</string>
+    <string name="distance_label">Distance parcourue : %1$.2f km</string>
+    <string name="time_label">Temps écoulé : %1$s</string>
+    <string name="status_label">Statut : %1$s</string>
+    <string name="status_waiting">En attente</string>
+    <string name="status_in_progress">En cours</string>
+    <string name="status_finished">Terminée</string>
+
+    <string name="summary_title">Récapitulatif</string>
+    <string name="summary_text">Distance totale : %1$.2f km\nDurée : %2$s</string>
+    <string name="ok">OK</string>
+
+    <string name="profile">Profil du livreur</string>
+    <string name="last_name">Nom</string>
+    <string name="first_name">Prénom</string>
+    <string name="age">Âge</string>
+    <string name="license_type">Type de permis</string>
+    <string name="courier_id">Identifiant</string>
+
+    <string name="notif_channel_name">Livraisons</string>
+    <string name="notif_title">Livraison terminée</string>
+    <string name="notif_text">Statut : %1$s • Distance : %2$.2f km • Durée : %3$s</string>
+
+    <string name="permission_rationale">L\'accès à la localisation est nécessaire pour suivre la livraison.</string>
+    <string name="tagline">Suivez vos livraisons en temps réel</string>
+    <string name="start_app">Commencer</string>
+    <string name="status_to_pickup">En route vers la commande</string>
+    <string name="status_to_customer">En route vers le client</string>
+    <string name="pickup_title">Commande</string>
+    <string name="customer_title">Client</string>
+    <string name="picked_up_msg">Commande récupérée ✅</string>
+    <string name="summary_text_3">Trajet vers la commande : %1$.2f km\nTrajet vers le client : %2$.2f km\nDistance totale : %3$.2f km\nDurée : %4$s</string>
+    <string name="status_offer">Nouvelle commande</string>
+    <string name="status_at_customer">Chez le client</string>
+    <string name="status_returning">Retour vers le magasin</string>
+    <string name="status_delivered">Livrée</string>
+    <string name="status_returned">Retournée</string>
+    <string name="btn_accept">Accepter</string>
+    <string name="btn_refuse">Refuser</string>
+    <string name="btn_picked_up">Commande récupérée</string>
+    <string name="btn_arrived">Arrivé chez le client</string>
+    <string name="btn_customer_accepts">Le client accepte</string>
+    <string name="btn_customer_refuses">Le client refuse</string>
+    <string name="btn_returned">Commande retournée</string>
+    <string name="hint_choose_order">Touchez une commande sur la carte</string>
+    <string name="order_info">Commande : %1$s\nClient : %2$s\nTrajet estimé : %3$.1f km</string>
+    <string name="info_remaining">Prochain point : %1$s • reste %2$.2f km</string>
+    <string name="info_at_customer">Chez %1$s : le client prend-il la commande ?</string>
+    <string name="summary_text_return">Trajet vers la commande : %1$.2f km\nTrajet vers le client : %2$.2f km\nRetour au magasin : %3$.2f km\nDistance totale : %4$.2f km\nDurée : %5$s</string>
+    <string name="far_title">Pas encore arrivé</string>
+    <string name="far_message">Vous êtes à %1$d m du point. Confirmer quand même ?</string>
+    <string name="confirm">Confirmer</string>
+    <string name="cancel">Annuler</string>
+    <string name="waiting_location">Localisation en cours…</string>
+    <string name="order_refused">Commande refusée</string>
+    <string name="courier_title">Ma position</string>
+    <string name="trip_estimate">Trajet estimé : %1$.1f km</string>
+    <string name="sim_on">Simulation activée</string>
+    <string name="sim_off">Simulation désactivée</string>
+    <string name="sim_arrived">Arrivé au point ✅</string>
+    <string name="offer_expired">Délai dépassé : commande expirée</string>
+    <string name="seconds_short">s</string>
+    <string name="call_customer">Appeler le client</string>
+    <string name="no_dialer">Aucune application d\'appel disponible</string>
+    <string name="history_title">Historique des livraisons</string>
+    <string name="history_empty">Aucune livraison pour le moment</string>
+    <string name="history_stats">Livraisons : %1$d • Distance : %2$.2f km</string>
+    <string name="history_clear">Effacer</string>
+    <string name="history_clear_msg">Effacer tout l\'historique ?</string>
+    <string name="km_duration">%1$.2f km • %2$s</string>
+    <string name="language_title">Langue</string>
+    <string name="location_unavailable">Position introuvable : activez la localisation (GPS) du téléphone et sortez à l\'extérieur</string>
+    <string name="sim_no_gps">Position GPS introuvable : départ du centre de Rabat</string>
+</resources>

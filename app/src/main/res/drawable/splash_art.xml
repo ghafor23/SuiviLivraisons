@@ -1,0 +1,56 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="360dp"
+    android:height="640dp"
+    android:viewportWidth="360"
+    android:viewportHeight="640">
+
+    <!-- Étoiles -->
+    <path
+        android:fillColor="#88FFFFFF"
+        android:pathData="M40,70m-1.5,0a1.5,1.5 0 1,0 3,0a1.5,1.5 0 1,0 -3,0 M310,50m-2,0a2,2 0 1,0 4,0a2,2 0 1,0 -4,0 M330,150m-1.5,0a1.5,1.5 0 1,0 3,0a1.5,1.5 0 1,0 -3,0 M20,190m-2,0a2,2 0 1,0 4,0a2,2 0 1,0 -4,0 M270,100m-1.5,0a1.5,1.5 0 1,0 3,0a1.5,1.5 0 1,0 -3,0 M90,30m-1.5,0a1.5,1.5 0 1,0 3,0a1.5,1.5 0 1,0 -3,0" />
+
+    <!-- Immeubles du fond -->
+    <path
+        android:fillColor="#CC0F2766"
+        android:pathData="M0,640 L0,500 L25,500 L25,470 L55,470 L55,520 L90,520 L90,455 L125,455 L125,510 L165,510 L165,480 L200,480 L200,525 L235,525 L235,465 L270,465 L270,515 L305,515 L305,485 L335,485 L335,505 L360,505 L360,640 Z" />
+
+    <!-- Fenêtres allumées -->
+    <path
+        android:fillColor="#AA6FA8FF"
+        android:pathData="M100,470h5v5h-5z M110,485h5v5h-5z M175,495h5v5h-5z M245,480h5v5h-5z M280,490h5v5h-5z M35,485h5v5h-5z M135,470h5v5h-5z M215,490h5v5h-5z" />
+
+    <!-- Immeubles de devant -->
+    <path
+        android:fillColor="#FF081538"
+        android:pathData="M0,640 L0,560 L28,560 L28,530 L58,530 L58,575 L88,575 L88,540 L118,540 L118,585 L150,585 L150,550 L182,550 L182,590 L214,590 L214,545 L246,545 L246,580 L278,580 L278,535 L310,535 L310,575 L336,575 L336,555 L360,555 L360,640 Z" />
+
+    <!-- Trajet lumineux -->
+    <path
+        android:strokeColor="#442F7BFF"
+        android:strokeWidth="10"
+        android:strokeLineCap="round"
+        android:pathData="M20,440 C80,380 130,470 190,415 S290,370 342,400" />
+    <path
+        android:strokeColor="#2F7BFF"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M20,440 C80,380 130,470 190,415 S290,370 342,400" />
+
+    <!-- Point de départ (commande) -->
+    <path
+        android:fillColor="#2F7BFF"
+        android:pathData="M20,440m-6,0a6,6 0 1,0 12,0a6,6 0 1,0 -12,0" />
+    <path
+        android:strokeColor="#772F7BFF"
+        android:strokeWidth="2"
+        android:pathData="M20,440m-12,0a12,12 0 1,0 24,0a12,12 0 1,0 -24,0" />
+
+    <!-- Point d'arrivée (client) -->
+    <path
+        android:fillColor="#28A745"
+        android:pathData="M342,400m-6,0a6,6 0 1,0 12,0a6,6 0 1,0 -12,0" />
+    <path
+        android:strokeColor="#7728A745"
+        android:strokeWidth="2"
+        android:pathData="M342,400m-12,0a12,12 0 1,0 24,0a12,12 0 1,0 -24,0" />
+</vector>

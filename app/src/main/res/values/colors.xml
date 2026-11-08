@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Couleurs du sujet -->
+    <color name="blue">#007BFF</color>
+    <color name="green">#28A745</color>
+    <color name="light_gray">#D3D3D3</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red">#FF0000</color>
+    <color name="light_blue">#E0F7FF</color>
+    <color name="dark_gray">#343A40</color>
+
+    <!-- Thème nuit -->
+    <color name="night_bg">#050B1F</color>
+    <color name="night_card">#E60A1430</color>
+    <color name="neon_blue">#2F7BFF</color>
+    <color name="neon_stroke">#CC2F7BFF</color>
+    <color name="text_muted">#B8C4E0</color>
+    <color name="stroke_soft">#66FFFFFF</color>
+</resources>

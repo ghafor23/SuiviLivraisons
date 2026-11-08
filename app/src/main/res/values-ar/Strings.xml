@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">تتبع التوصيلات</string>
+
+    <string name="start_delivery">بدء التوصيل</string>
+    <string name="end_delivery">إنهاء التوصيل</string>
+    <string name="distance_label">المسافة المقطوعة: %1$.2f كم</string>
+    <string name="time_label">الوقت المنقضي: %1$s</string>
+    <string name="status_label">الحالة: %1$s</string>
+    <string name="status_waiting">في الانتظار</string>
+    <string name="status_in_progress">قيد التنفيذ</string>
+    <string name="status_finished">منتهية</string>
+
+    <string name="summary_title">الملخص</string>
+    <string name="summary_text">المسافة الإجمالية: %1$.2f كم\nالمدة: %2$s</string>
+    <string name="ok">حسناً</string>
+
+    <string name="profile">ملف الموزّع</string>
+    <string name="last_name">الاسم العائلي</string>
+    <string name="first_name">الاسم الشخصي</string>
+    <string name="age">العمر</string>
+    <string name="license_type">نوع رخصة السياقة</string>
+    <string name="courier_id">المعرّف</string>
+
+    <string name="notif_channel_name">التوصيلات</string>
+    <string name="notif_title">انتهى التوصيل</string>
+    <string name="notif_text">الحالة: %1$s • المسافة: %2$.2f كم • المدة: %3$s</string>
+
+    <string name="permission_rationale">الوصول إلى الموقع ضروري لتتبع التوصيل.</string>
+    <string name="tagline">تتبّع توصيلاتك في الوقت الحقيقي</string>
+    <string name="start_app">ابدأ</string>
+    <string name="status_to_pickup">في الطريق لاستلام الطلب</string>
+    <string name="status_to_customer">في الطريق إلى الزبون</string>
+    <string name="pickup_title">الطلب</string>
+    <string name="customer_title">الزبون</string>
+    <string name="picked_up_msg">تم استلام الطلب ✅</string>
+    <string name="summary_text_3">المسافة نحو الطلب: %1$.2f كم\nالمسافة نحو الزبون: %2$.2f كم\nالمسافة الإجمالية: %3$.2f كم\nالمدة: %4$s</string>
+    <string name="status_offer">طلب جديد</string>
+    <string name="status_at_customer">عند الزبون</string>
+    <string name="status_returning">في طريق العودة إلى المحل</string>
+    <string name="status_delivered">تم التسليم</string>
+    <string name="status_returned">أُعيد الطلب</string>
+    <string name="btn_accept">قبول</string>
+    <string name="btn_refuse">رفض</string>
+    <string name="btn_picked_up">تم استلام الطلب</string>
+    <string name="btn_arrived">وصلت عند الزبون</string>
+    <string name="btn_customer_accepts">الزبون قَبِل</string>
+    <string name="btn_customer_refuses">الزبون رفض</string>
+    <string name="btn_returned">تم إرجاع الطلب</string>
+    <string name="hint_choose_order">اختر طلباً من الخريطة</string>
+    <string name="order_info">الطلب: %1$s\nالزبون: %2$s\nالمسافة المقدّرة: %3$.1f كم</string>
+    <string name="info_remaining">النقطة التالية: %1$s • المتبقي %2$.2f كم</string>
+    <string name="info_at_customer">عند %1$s: هل يقبل الزبون الطلب؟</string>
+    <string name="summary_text_return">المسافة نحو الطلب: %1$.2f كم\nالمسافة نحو الزبون: %2$.2f كم\nالعودة إلى المحل: %3$.2f كم\nالمسافة الإجمالية: %4$.2f كم\nالمدة: %5$s</string>
+    <string name="far_title">لم تصل بعد</string>
+    <string name="far_message">أنت على بعد %1$d م من النقطة. هل تريد التأكيد رغم ذلك؟</string>
+    <string name="confirm">تأكيد</string>
+    <string name="cancel">إلغاء</string>
+    <string name="waiting_location">جارٍ تحديد موقعك…</string>
+    <string name="order_refused">تم رفض الطلب</string>
+    <string name="courier_title">موقعي</string>
+    <string name="trip_estimate">المسافة المقدّرة: %1$.1f كم</string>
+    <string name="sim_on">تم تفعيل المحاكاة</string>
+    <string name="sim_off">تم إيقاف المحاكاة</string>
+    <string name="sim_arrived">تم الوصول إلى النقطة ✅</string>
+    <string name="offer_expired">انتهت المهلة: انتهى الطلب</string>
+    <string name="seconds_short">ث</string>
+    <string name="call_customer">اتصل بالزبون</string>
+    <string name="no_dialer">لا يوجد تطبيق اتصال</string>
+    <string name="history_title">سجل التوصيلات</string>
+    <string name="history_empty">لا توجد توصيلات بعد</string>
+    <string name="history_stats">التوصيلات: %1$d • المسافة: %2$.2f كم</string>
+    <string name="history_clear">مسح</string>
+    <string name="history_clear_msg">هل تريد مسح كل السجل؟</string>
+    <string name="km_duration">%1$.2f كم • %2$s</string>
+    <string name="language_title">اللغة</string>
+    <string name="location_unavailable">تعذر تحديد الموقع: فعّل خدمة الموقع (GPS) وانتقل إلى الخارج</string>
+    <string name="sim_no_gps">تعذر العثور على موقع GPS: البداية من وسط الرباط</string>
+</resources>

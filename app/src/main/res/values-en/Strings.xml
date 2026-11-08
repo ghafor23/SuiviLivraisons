@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Delivery Tracking</string>
+
+    <string name="start_delivery">Start delivery</string>
+    <string name="end_delivery">End delivery</string>
+    <string name="distance_label">Distance traveled: %1$.2f km</string>
+    <string name="time_label">Elapsed time: %1$s</string>
+    <string name="status_label">Status: %1$s</string>
+    <string name="status_waiting">Waiting</string>
+    <string name="status_in_progress">In progress</string>
+    <string name="status_finished">Finished</string>
+
+    <string name="summary_title">Summary</string>
+    <string name="summary_text">Total distance: %1$.2f km\nDuration: %2$s</string>
+    <string name="ok">OK</string>
+
+    <string name="profile">Courier profile</string>
+    <string name="last_name">Last name</string>
+    <string name="first_name">First name</string>
+    <string name="age">Age</string>
+    <string name="license_type">License type</string>
+    <string name="courier_id">ID</string>
+
+    <string name="notif_channel_name">Deliveries</string>
+    <string name="notif_title">Delivery finished</string>
+    <string name="notif_text">Status: %1$s • Distance: %2$.2f km • Duration: %3$s</string>
+
+    <string name="permission_rationale">Location access is required to track the delivery.</string>
+    <string name="tagline">Track your deliveries in real time</string>
+    <string name="start_app">Get started</string>
+    <string name="status_to_pickup">Heading to the order</string>
+    <string name="status_to_customer">Heading to the customer</string>
+    <string name="pickup_title">Order</string>
+    <string name="customer_title">Customer</string>
+    <string name="picked_up_msg">Order picked up ✅</string>
+    <string name="summary_text_3">To the order: %1$.2f km\nTo the customer: %2$.2f km\nTotal distance: %3$.2f km\nDuration: %4$s</string>
+    <string name="status_offer">New order</string>
+    <string name="status_at_customer">At the customer</string>
+    <string name="status_returning">Returning to the shop</string>
+    <string name="status_delivered">Delivered</string>
+    <string name="status_returned">Returned</string>
+    <string name="btn_accept">Accept</string>
+    <string name="btn_refuse">Decline</string>
+    <string name="btn_picked_up">Order picked up</string>
+    <string name="btn_arrived">Arrived at customer</string>
+    <string name="btn_customer_accepts">Customer accepts</string>
+    <string name="btn_customer_refuses">Customer declines</string>
+    <string name="btn_returned">Order returned</string>
+    <string name="hint_choose_order">Tap an order on the map</string>
+    <string name="order_info">Order: %1$s\nCustomer: %2$s\nEstimated trip: %3$.1f km</string>
+    <string name="info_remaining">Next stop: %1$s • %2$.2f km left</string>
+    <string name="info_at_customer">At %1$s: does the customer take the order?</string>
+    <string name="summary_text_return">To the order: %1$.2f km\nTo the customer: %2$.2f km\nBack to the shop: %3$.2f km\nTotal distance: %4$.2f km\nDuration: %5$s</string>
+    <string name="far_title">Not there yet</string>
+    <string name="far_message">You are %1$d m from the point. Confirm anyway?</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="waiting_location">Getting your location…</string>
+    <string name="order_refused">Order declined</string>
+    <string name="courier_title">My location</string>
+    <string name="trip_estimate">Estimated trip: %1$.1f km</string>
+    <string name="sim_on">Simulation on</string>
+    <string name="sim_off">Simulation off</string>
+    <string name="sim_arrived">Reached the point ✅</string>
+    <string name="offer_expired">Time is up: order expired</string>
+    <string name="seconds_short">s</string>
+    <string name="call_customer">Call the customer</string>
+    <string name="no_dialer">No dialer app available</string>
+    <string name="history_title">Delivery history</string>
+    <string name="history_empty">No deliveries yet</string>
+    <string name="history_stats">Deliveries: %1$d • Distance: %2$.2f km</string>
+    <string name="history_clear">Clear</string>
+    <string name="history_clear_msg">Delete the whole history?</string>
+    <string name="km_duration">%1$.2f km • %2$s</string>
+    <string name="language_title">Language</string>
+    <string name="location_unavailable">Location not found: turn on your phone\'s location (GPS) and go outside</string>
+    <string name="sim_no_gps">GPS position not found: starting from central Rabat</string>
+</resources>
